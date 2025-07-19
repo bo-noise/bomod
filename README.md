@@ -1,2 +1,2 @@
-# bomod
-A balatro mod thats bad.
+# BoMod
+A mod that adds a lot of unuseful jokers and lots of things.
