@@ -1,10 +1,9 @@
 # BoMod
-## BIENVENIDO A BOMOD
+## WELCOME TO BOMOD
 
-Este es un mod de Balatro que añade **Jokers** Inutiles y "Utiles", añadiendo tambien un Desafio, ***BoMod*** es ideal si quieres empezar a hacer tus mods de Balatro, lo puedes usar de plantilla si gustas.
+This is a Balatro mod that adds **Useless** and "Useful" Jokers, also adding a Challenge. ***BoMod*** is ideal if you want to start making your own Balatro mods, you can use it as a template if you want.
 
-## ¿Como lo Instalo?
-Debes tener instalado **Steamodded** y **Lovely** (o solo usa *Balatro Mod Manager*), y Descarga el ***Release***, debes que ponerlo en tu carpeta de **Mods** de Balatro.
+## How do I install it?
+You must have **Steamodded** and **Lovely** installed (or just use *Balatro Mod Manager*), and download the ***Release***. You must put it in your Balatro **Mods** folder.
 
-## For the English Readers...
-This mod is currently only in ***Spanish***, i need someone to help me to do the translations, if you can do it, DM me on Discord `(@thebonoise)`
+
