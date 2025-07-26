@@ -6,4 +6,6 @@ This is a Balatro mod that adds **Useless** and "Useful" Jokers, also adding a C
 ## How do I install it?
 You must have **Steamodded** and **Lovely** installed (or just use *Balatro Mod Manager*), and download the ***Release***. You must put it in your Balatro **Mods** folder.
 
+## Credits
+[Berry Dash](https://github.com/BerryDash/source) by [Lncvrt](https://lncvrt.xyz)
 
